@@ -10,4 +10,4 @@ const user = {
         city: 'Dhaka'
     }
 }
-console.log(user);
+console.log(user.name);
